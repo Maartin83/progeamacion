@@ -1,0 +1,10 @@
+datos={}
+n=input("Ingrese nombre: ")
+e=int(input("Ingrese edad: "))
+d=input("Ingrese direccion: ")
+t=int(input("ingrese numero de telefono: "))
+datos.update({'nombre':n})
+datos.update({'edad':e})
+datos.update({'direccion':d})
+datos.update({'telefono':t})
+print(datos.get('nombre'),"tiene",datos.get('edad'),"años, vive en",datos.get('direccion'),"y su numero de telefono es:",datos.get('telefono'))

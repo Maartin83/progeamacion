@@ -1,0 +1,6 @@
+#Crear una lista e ingresar 10 valores de la estatura de personas;
+# 1.-mostrar el promedio de estatura.
+# 2.-la cantidad de estaturas mayores al promedio.
+# 3.-la cantidad de estaturas menores al promedio.
+# 4.-La estatura mayor.
+# 5.-La estatura menor.
